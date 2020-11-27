@@ -1,6 +1,6 @@
 # TU Delft thesis - MMX thesis plotting - minimum working example
 
-This repository offers a minimum working example for a Python plotting tool which may be used with the [TU Delft thesis template](https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/). This code enables plots with the [Utopia](https://www.fonts.com/font/adobe/utopia/story) font used in the TU Delft thesis template or any other font that is selected in the beginning of the plotting file.
+This repository offers a minimum working example for a Python plotting tool which may be used with the [TU Delft thesis template](https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/) - my thesis is found [here](http://resolver.tudelft.nl/uuid:4202832d-966f-4be6-aa9e-1493cfffa398). This code enables plots with the [Utopia](https://www.fonts.com/font/adobe/utopia/story) font used in the TU Delft thesis template or any other font that is selected in the beginning of the plotting file.
 
 <p align="center">
 <img src="https://github.com/HaralDev/TUDelft_thesis_plotting/blob/main/EM1_motor_lifetest.png" width="600">
